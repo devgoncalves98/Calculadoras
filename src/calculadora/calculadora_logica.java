@@ -53,7 +53,7 @@ public class calculadora_logica {
 
         if (continuar == 0) {
             break;
-        }}
+        }
         }
         scanner.close();
 }
