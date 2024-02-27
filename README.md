@@ -1,5 +1,5 @@
 Calculadora Lógica    
-  Funcionalidade  
+- Funcionalidade  
 A calculadora lógica é uma aplicação simples em Java que permite aos usuários realizar operações lógicas entre dois operandos, representados pelos valores 0 e 1.  
 - A aplicação suporta as seguintes operações lógicas:  
 1.	OU (∨) – Disjunção: Retorna 1 se pelo menos um dos operandos for 1.
