@@ -6,4 +6,4 @@ Tentei ser o maximo limitador de dados de entrada e possibilitando retorno após
 
 Permitindo 5 tipos de calculos dentro dela.
 
-Nesse repositorio voce tambem encontrara um calculadora basica de +, -, * e %, ou seja, operções basicas para treinar para esse desafio realizado na matéria de Introdução a Inteligencia Artificial na UDF.
+Nesse repositorio voce tambem encontrara um calculadora basica de +, -, * e %, ou seja, operções basicas para treinar para esse desafio realizado na matéria de Fundamentos de Inteligência Artificial na UDF.
